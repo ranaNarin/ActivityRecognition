@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.android.gms:play-services-location-license-11.6.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../android-sdk-macosx/gradle-3.3/caches/transforms-1/files-1.1/play-services-location-license-11.6.0.aar/f24c6c2d55ad05235be35573a3d8a57d/res" />
+      <root url="jar://$PROJECT_DIR$/../../../android-sdk-macosx/gradle-3.3/caches/transforms-1/files-1.1/play-services-location-license-11.6.0.aar/f24c6c2d55ad05235be35573a3d8a57d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

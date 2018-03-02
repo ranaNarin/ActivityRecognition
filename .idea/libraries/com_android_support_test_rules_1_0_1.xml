@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.android.support.test:rules-1.0.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../android-sdk-macosx/gradle-3.3/caches/transforms-1/files-1.1/rules-1.0.1.aar/bb9ebf721b4afe5a6953d15a0533e17b/res" />
+      <root url="jar://$PROJECT_DIR$/../../../android-sdk-macosx/gradle-3.3/caches/transforms-1/files-1.1/rules-1.0.1.aar/bb9ebf721b4afe5a6953d15a0533e17b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../android-sdk-macosx/gradle-3.3/caches/modules-2/files-2.1/com.android.support.test/rules/1.0.1/8d0aaa918b00c7ef6487610c9175276de6df953e/rules-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
